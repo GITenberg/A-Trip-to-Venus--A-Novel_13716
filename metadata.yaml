@@ -1,0 +1,28 @@
+_repo: A-Trip-to-Venus--A-Novel_13716
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Munro, John
+    birthdate: 1849
+    deathdate: 1930
+    gutenberg_agent_id: '496'
+    url: http://www.gutenberg.org/2009/agents/496
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2004-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13716'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PR'
+- !lcsh 'Venus (Planet) -- Fiction'
+title: 'A Trip to Venus: A Novel'
+url: http://www.gutenberg.org/ebooks/13716
